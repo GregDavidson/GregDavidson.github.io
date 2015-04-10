@@ -1,15 +1,15 @@
 # GregDavidson.github.io
 Greg Davidson's Public Projects on GitHub
 
-## [The Wicci System](https://github.com/GregDavidson/wicci-core-S0_lib)
+## [The Wicci System](https://github.com/GregDavidson/wicci-core-S0_lib): a Collaborative Content Management System
 
-The Wicci System is a collaborative content management system.  It consists of twelve extensive components which have each been given their own git repository to allow them to be reused more flexibly.  All components should be checked out and linked together appropriately before trying to build the Wicci System.  The [WicciCore](https://github.com/GregDavidson/wicci-core-S0_lib) repository contains the top-level structure and an overview of the other components and their repositories.
+The Wicci System consists of twelve components stored in separate git repositories to allow them to be understood and reused more flexibly.  All components should be checked out and linked together appropriately before trying to build the complete Wicci System.
 
 ## UtilBiz: Framework for Business Information Management using PostgreSQL
 
-[UtilBiz](https://github.com/GregDavidson/UtilBiz)
+[UtilBiz](https://github.com/GregDavidson/UtilBiz): Business Information Framework
 
-_UtilBiz_ utilizes a fork of some of the Wicci extensions for PostgreSQL
+_UtilBiz_ provides a powerful framework for Business Information Management, Automation and Accounting utilizing PostgreSQL and (a fork of) some components of the Wicci System.
 
 ## Shorter Works
 
