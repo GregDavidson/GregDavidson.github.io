@@ -5,9 +5,7 @@ Greg Davidson's Public Projects on GitHub
 
 The Wicci System consists of twelve components stored in separate git repositories to allow them to be understood and reused more flexibly.  All components should be checked out and linked together appropriately before trying to build the complete Wicci System.
 
-## UtilBiz: Framework for Business Information Management using PostgreSQL
-
-[UtilBiz](https://github.com/GregDavidson/UtilBiz): Business Information Framework
+## [UtilBiz](https://github.com/GregDavidson/UtilBiz): Business Information Framework
 
 _UtilBiz_ provides a powerful framework for Business Information Management, Automation and Accounting utilizing PostgreSQL and (a fork of) some components of the Wicci System.
 
