@@ -11,7 +11,8 @@ _UtilBiz_ provides a powerful framework for Business Information Management, Aut
 
 ## Shorter Works
 
-+ [BookmarksToSQL](https://github.com/GregDavidson/BookmarksToSQL): Manage Web Bookmarks in PostgreSQL PostgreSQL
++ [BookmarksToSQL](https://github.com/GregDavidson/BookmarksToSQL): Manage Web Bookmarks in PostgreSQL
++ [FizzBuzz in Rust](https://github.com/GregDavidson/FizzBuzzInRust): FizzBuzz variations in Rust
 + [sqlite-to-pgsql](https://github.com/GregDavidson/sqlite-to-pgsql): Convert Sqlite SQL into PostgreSQL
 
 ## Profiles and Configurations
