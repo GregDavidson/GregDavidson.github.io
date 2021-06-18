@@ -1,0 +1,8 @@
+title: GregDavidson.GitHub.io
+description: Greg Davidson's Public Projects on GitHub
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
