@@ -1,5 +1,4 @@
-# GregDavidson.github.io
-Greg Davidson's Public Projects on GitHub
+# [All My Public GitHub Repositories ](https://github.com/GregDavidson?tab=repositories)
 
 ## [The Wicci System](https://github.com/GregDavidson/wicci-core-S0_lib): Collaborative Content Management
 
